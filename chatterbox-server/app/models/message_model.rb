@@ -1,0 +1,2 @@
+module Message
+end
